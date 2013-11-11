@@ -1,4 +1,5 @@
 Our assignment for next week. 
+=============================
 
 
 Assignment: 
@@ -14,6 +15,8 @@ Communication simplified to interactions related to coding and version control, 
 Focus is on profile pages, which have every person’s repositories, updates, etc. “Social” aspect is front-and-center but the social interactions seem almost non-existent. The meat of these interactions (editing code, forking, pushing, pulling) happens off-site, or takes the users off-site. Seems a little disjointed.
 
 Github gets rid of the need to meet by allowing for collaboration on the user's time. 
+
+There are ways in which people can send comments to each other about certain commits, which is a good way to collaborate on smaller tasks.
 
 Interesting uses beyond code:
 
