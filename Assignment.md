@@ -24,6 +24,9 @@ Shared doc editing
 - https://github.com/vhf/free-programming-books
 - https://github.com/oreillymedia/open_government
 
+If it wanted to beyond code for a larger audience, adding more customizable options for changing the syntax or how it works, 
+could take people away from the idea that this is just for the software developer community. 
+
 Clays Shirky
 How the internet will....
 http://www.ted.com/talks/clay_shirky_how_the_internet_will_one_day_transform_government.html
