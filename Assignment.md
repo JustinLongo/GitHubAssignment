@@ -15,6 +15,8 @@ Focus is on profile pages, which have every person’s repositories, updates, et
 
 Github gets rid of the need to meet by allowing for collaboration on the user's time. 
 
+There are ways in which people can send comments to each other about certain commits, which is a good way to collaborate on smaller tasks.
+
 Interesting uses beyond code:
 
 Shared doc editing 
